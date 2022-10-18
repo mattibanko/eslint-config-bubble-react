@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-bubble-react",
+  "version": "1.0.0",
+  "description": "Eslint configuration for Typescript-React appplications.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattibanko/eslint-config-bubble-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "configuration",
+    "prettier",
+    "lint",
+    "linter",
+    "react",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattibanko/eslint-config-bubble-react/issues"
+  },
+  "homepage": "https://github.com/mattibanko/eslint-config-bubble-react#readme"
+}
